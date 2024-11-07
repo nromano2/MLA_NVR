@@ -12,3 +12,6 @@ The `MLA3_NVR` folder contains the third machine learning assignment completed i
 
 ## MLA4_NVR
 The `MLA4_NVR` folder contains the fourth machine learning assignment completed in the CS430 Machine Learning in the Cloud course. Within this folder are the two datasets that were used in the Google Colab Notebook `MLA4_NVR.ipynb` file. The two dataset names are `Steel_industry_data.csv` and `banknote_authentication.csv`. For this assignment, I was tasked with creating pipelines to transform the data and run a Decision Tree Regression and a Decision Tree Classifier models.
+
+## MLA5_NVR
+The `MLA5_NVR` folder contains the fifth machine learning assignment completed in the CS430 Machine Learning in the Cloud course. Within this folder are the three datasets that were used, which includes `banknote_authentication.csv`, `landsat_test.csv`, `land_train.csv`. For this assignment, I was tasked with creating pipeline to transform the data and run a Random Forest Classifier and Bagging Classifier models.
